@@ -2,7 +2,6 @@
 <div>
    <a href="https://github.com/SuzBarbosa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuzBarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuzBarbosa&theme=radical&hide_border=false/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuzBarbosa&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>   
