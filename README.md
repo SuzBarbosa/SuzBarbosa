@@ -1,10 +1,8 @@
-# Hi there 👋 I'm Suzana Barbosa
+# Hi 👋 I'm Suzana Barbosa
 
 🗺️ GIS Analyst | 📊 Spatial Data Enthusiast | 🐍 Python Explorer
 
-I transform maps, databases, and geospatial puzzles into insights.
-
-Most days you'll find me working with spatial analysis, automations, dashboards, data integration, and a healthy amount of detective work to figure out why two datasets insist they belong together.
+I transform maps, databases, and geospatial puzzles into insights, which means I spend an unhealthy amount of time looking at maps, fixing data, and wondering why two layers that should match... don't.
 
 ---
 
@@ -13,40 +11,45 @@ Most days you'll find me working with spatial analysis, automations, dashboards,
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgres,autocad,github,vscode" />
   </a>
 </p>
 
 </div>
 
-### 🌎 GIS & Mapping
+### 🌎 Maps, Spatial Stuff & GIS Magic
 
-- ArcGIS Pro
-- ArcGIS Online
-- Survey123
-- Experience Builder
-- QGIS
-- SQL Server Geodatabases
-- Spatial Analysis
-- Geoprocessing
-- Remote Sensing
-- Data Visualization
+The tools I use to turn coordinates, layers, and a little bit of chaos into something useful.
 
-### 💻 Development & Automation
+- 🗺️ ArcGIS Pro & ArcGIS Online
+- 🌍 QGIS
+- 📱 Survey123
+- 🧩 Experience Builder
+- 🗄️ SQL Server Geodatabases
+- 🔍 Spatial Analysis
+- ⚙️ Geoprocessing
+- 🛰️ Remote Sensing
+- 📊 Data Visualization
 
-- Python
-- JavaScript
-- ArcGIS API for JavaScript
-- Power Automate
-- REST APIs
-- Web Mapping Applications
+### 💻 Code, Coffee & Automation
 
-### 🎨 Design & Communication
+Making computers do the repetitive work so I can focus on the fun part.
 
-- Canva
-- Dashboard Design
-- Technical Documentation
-- Storytelling with Data
+- 🐍 Python
+- ⚡ JavaScript
+- 🗺️ ArcGIS API for JavaScript
+- 🔄 Power Automate
+- 🔌 REST APIs
+- 🌐 Web Mapping Applications
+
+### 🎨 Making Things Look Nice
+
+Because great work is even better when people actually enjoy looking at it.
+
+- 🎨 Canva
+- 📈 Dashboard Design
+- 📝 Technical Documentation
+- 📖 Storytelling with Data
 
 ---
 ## 🗺️ A Little About Me
