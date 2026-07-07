@@ -1,3 +1,11 @@
+
+```
+Sometimes the problem is the data.
+Sometimes it's the code.
+Sometimes it's the coordinate system.
+It's usually the coordinate system.
+```
+
 # Hi 👋 I'm Suzana Barbosa
 
 🗺️ GIS Analyst | 📊 Spatial Data Enthusiast | 🐍 Python Explorer
@@ -17,39 +25,33 @@ I transform maps, databases, and geospatial puzzles into insights, which means I
 
 </div>
 
-### 🌎 Maps, Spatial Stuff & GIS Magic
+### 🌎 What I Like Building
 
-The tools I use to turn coordinates, layers, and a little bit of chaos into something useful.
+🗺️ Maps that tell a story
+🌐 Web GIS apps with ArcGIS Online and Experience Builder
+📱 Smart data collection workflows with Survey123
+📊 Dashboards that answer questions before they're asked
+🛰️ Spatial analyses that uncover patterns
+🔍 Workflows that make messy data a little less messy
 
-- 🗺️ ArcGIS Pro & ArcGIS Online
-- 🌍 QGIS
-- 📱 Survey123
-- 🧩 Experience Builder
-- 🗄️ SQL Server Geodatabases
-- 🔍 Spatial Analysis
-- ⚙️ Geoprocessing
-- 🛰️ Remote Sensing
-- 📊 Data Visualization
+### 💻 What Keeps Me Busy
 
-### 💻 Code, Coffee & Automation
+🐍 Automating things that shouldn't be done manually
+⚡ Building tools with Python and JavaScript
+🧩 Working with ArcGIS APIs and integrations
+🔌 Connecting systems through REST APIs
+🌍 Making spatial data available beyond desktop GIS
 
-Making computers do the repetitive work so I can focus on the fun part.
+### 🛠️ GIS Toolbox
 
-- 🐍 Python
-- ⚡ JavaScript
-- 🗺️ ArcGIS API for JavaScript
-- 🔄 Power Automate
-- 🔌 REST APIs
-- 🌐 Web Mapping Applications
+• QGIS • ArcGIS Pro • ArcGIS Online • Experience Builder • Survey123 • Field Maps • Dashboards • SQL Server Geodatabases • Remote Sensing • Spatial Analysis • Geoprocessing • Data Visualization
 
-### 🎨 Making Things Look Nice
+### 🎨 And When I'm Not Coding...
 
-Because great work is even better when people actually enjoy looking at it.
-
-- 🎨 Canva
-- 📈 Dashboard Design
-- 📝 Technical Documentation
-- 📖 Storytelling with Data
+📈 Designing dashboards
+📖 Writing documentation that people might actually read
+🎨 Building visuals in Canva
+✨ Turning complex data into clear and useful insights
 
 ---
 ## 🗺️ A Little About Me
