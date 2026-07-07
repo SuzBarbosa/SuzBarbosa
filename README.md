@@ -1,9 +1,11 @@
-
+## 🗺️ A Little About Me
 ```
-Sometimes the problem is the data.
-Sometimes it's the code.
-Sometimes it's the coordinate system.
-It's usually the coordinate system.
+while (coffee > 0) {
+    collect_data();
+    analyze();
+    automate();
+    make_maps();
+}
 ```
 
 # Hi 👋 I'm Suzana Barbosa
@@ -27,19 +29,28 @@ I transform maps, databases, and geospatial puzzles into insights, which means I
 
 ### 🌎 What I Like Building
 
-🗺️ Maps that tell a story
+🗺️ Maps that tell a story 
+
 🌐 Web GIS apps with ArcGIS Online and Experience Builder
+
 📱 Smart data collection workflows with Survey123
+
 📊 Dashboards that answer questions before they're asked
+
 🛰️ Spatial analyses that uncover patterns
+
 🔍 Workflows that make messy data a little less messy
 
 ### 💻 What Keeps Me Busy
 
 🐍 Automating things that shouldn't be done manually
-⚡ Building tools with Python and JavaScript
+
+⚡ Building tools with Python and 
+
 🧩 Working with ArcGIS APIs and integrations
+
 🔌 Connecting systems through REST APIs
+
 🌍 Making spatial data available beyond desktop GIS
 
 ### 🛠️ GIS Toolbox
@@ -49,17 +60,11 @@ I transform maps, databases, and geospatial puzzles into insights, which means I
 ### 🎨 And When I'm Not Coding...
 
 📈 Designing dashboards
+
 📖 Writing documentation that people might actually read
+
 🎨 Building visuals in Canva
+
 ✨ Turning complex data into clear and useful insights
 
----
-## 🗺️ A Little About Me
 
-```text
-while (coffee > 0) {
-    collect_data();
-    analyze();
-    automate();
-    make_maps();
-}
