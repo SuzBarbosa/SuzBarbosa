@@ -28,10 +28,10 @@ My main goal here is investigate territorial issues through data, geospatial tec
 </p>
 
 </div>
-<div align="center">
-### 🛠️ GIS Toolbox
 
-• QGIS • ArcGIS Pro • ArcGIS Online • Experience Builder • Survey123 • Field Maps • Dashboards • SQL Server Geodatabases • Remote Sensing • Spatial Analysis • Geoprocessing • Data Visualization
+### 🛠️ GIS Toolbox
+<div align="center">
+ QGIS • ArcGIS Pro • ArcGIS Online • Experience Builder • Survey123 • Field Maps • Dashboards • SQL Server Geodatabases • Remote Sensing • Spatial Analysis • Geoprocessing • Data Visualization
 
 </div>
 
