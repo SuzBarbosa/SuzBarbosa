@@ -1,4 +1,5 @@
-## 🗺️ A Little About Me
+## Hi 👋 I'm Suzana
+
 ```
 while (coffee > 0) {
     collect_data();
@@ -8,13 +9,13 @@ while (coffee > 0) {
 }
 ```
 
-# Hi 👋 I'm Suzana Barbosa
+# 🗺️ A Little About Me
 
 🗺️ GIS Analyst | 📊 Spatial Data Enthusiast | 🐍 Python Explorer
 
 I transform maps, databases, and geospatial puzzles into insights, which means I spend an unhealthy amount of time looking at maps, fixing data, and wondering why two layers that should match... don't.
 
-My main goal here is investigate territorial issues through data, geospatial technologies and open solutions, documenting reproducible methodologies while showing how I approach spatial problems.
+My main goal here is investigate territorial issues through data, geospatial technologies and open solutions, documenting reproducible methodologies while showing how I approach spatial problems
 
 ---
 
