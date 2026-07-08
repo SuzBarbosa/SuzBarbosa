@@ -14,6 +14,8 @@ while (coffee > 0) {
 
 I transform maps, databases, and geospatial puzzles into insights, which means I spend an unhealthy amount of time looking at maps, fixing data, and wondering why two layers that should match... don't.
 
+My main goal here is investigate territorial issues through data, geospatial technologies and open solutions, documenting reproducible methodologies while showing how I approach spatial problems.
+
 ---
 
 ## 🚀 What I'm Working With
@@ -26,9 +28,14 @@ I transform maps, databases, and geospatial puzzles into insights, which means I
 </p>
 
 </div>
+<div align="center">
+### 🛠️ GIS Toolbox
+
+• QGIS • ArcGIS Pro • ArcGIS Online • Experience Builder • Survey123 • Field Maps • Dashboards • SQL Server Geodatabases • Remote Sensing • Spatial Analysis • Geoprocessing • Data Visualization
+
+</div>
 
 ### 🌎 What I Like Building
-
 🗺️ Maps that tell a story 
 
 🌐 Web GIS apps with ArcGIS Online and Experience Builder
@@ -53,9 +60,6 @@ I transform maps, databases, and geospatial puzzles into insights, which means I
 
 🌍 Making spatial data available beyond desktop GIS
 
-### 🛠️ GIS Toolbox
-
-• QGIS • ArcGIS Pro • ArcGIS Online • Experience Builder • Survey123 • Field Maps • Dashboards • SQL Server Geodatabases • Remote Sensing • Spatial Analysis • Geoprocessing • Data Visualization
 
 ### 🎨 And When I'm Not Coding...
 
